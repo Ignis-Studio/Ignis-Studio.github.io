@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "Ignis Studio"
-  text: "CreeperIsSpy‘s Collaborating Organization"
+  text: "Neclyon‘s Collaborating Organization"
   tagline: Contributions are always welcomed.
   image:
     src: /logo.png
@@ -19,7 +19,7 @@ hero:
 features:
   - title: IgnisCAD
     details: A wrapper for the build123d library, designed for AI agents.
-    link: https://icad.org.creeperspy.top
+    link: https://icad.org.neclyon.dev
   - title: JustExecute
     details: A small tool that allows AI to run commands.
     link: https://github.com/Ignis-Studio/JustExecute 
