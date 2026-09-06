@@ -1,1 +1,1 @@
-[转到GitHub](https://github.com/Ignis-Studio/repositories)
+[转到GitHub](https://github.com/orgs/Ignis-Studio/repositories)
